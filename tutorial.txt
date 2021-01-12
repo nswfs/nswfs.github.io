@@ -1,0 +1,15 @@
+Tutorial
+
+1. Download the Flash Projector
+2. Download the game you want to play (or the Flash Games bundle)
+3. Open the Flash Projector (EXE file)
+4. Drag the SWF File* (your game) onto the Flash Projector window.
+
+
+
+
+
+
+
+
+*If you're using the Flash Games bundle, you have to open the .zip file first
